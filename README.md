@@ -1,2 +1,2 @@
-<h2 align="left">Hi 👋</h2>
-<h2 align="left">What brings you here?🍺</h2>
+<h3 align="left">Hi 👋</h3>
+<h3 align="left">What brings you here?🍺</h3>
